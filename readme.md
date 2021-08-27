@@ -24,7 +24,7 @@ This mod is a little extension to the zeus who with a button on the top right ca
 
 ![image](https://user-images.githubusercontent.com/20736188/131125545-77a00d5b-2bea-4f46-8033-d09763451645.png)
 
-#Known issues
+# Known issues
 
 - Triggers with no area cant be interacted
 
